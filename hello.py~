@@ -1,3 +1,7 @@
 print("Hello world");
 print("I'm Trisha");
-print("Favourite colour: teal");
+<<<<<<< HEAD
+print("Favourite colour: green");
+=======
+print("Favourite colour: purple");
+>>>>>>> 7bb85807dad9db98f265a2768b6e1179c7af6cac
